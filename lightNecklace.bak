@@ -655,8 +655,6 @@ F 3 "" H 7150 4475 50  0001 C CNN
 	1    7150 4475
 	0    1    1    0   
 $EndComp
-Text Label 4175 1700 0    60   ~ 0
-LED1
 Text Label 7000 1450 2    60   ~ 0
 LED1
 Text Label 7000 1725 2    60   ~ 0
@@ -1729,4 +1727,5 @@ NoConn ~ 4175 4300
 NoConn ~ 4175 4400
 NoConn ~ 4175 4500
 NoConn ~ 4175 4600
+NoConn ~ 4175 1700
 $EndSCHEMATC

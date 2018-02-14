@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 113.335999 74.854999 178.129001 97.230001)
     (thickness 1.6)
-    (drawings 7)
+    (drawings 6)
     (tracks 1352)
     (zones 0)
     (modules 75)
@@ -2951,9 +2951,6 @@
       (xy 21.420666 3.81) (xy 21.420666 -11.091333) (xy 26.924 -11.091333) (xy 26.924 3.81)) (layer F.SilkS) (width 0.01))
   )
 
-  (gr_text "You Caught me" (at 160.655 95.25) (layer B.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
-  )
   (gr_circle (center 176 77) (end 177 77) (layer Edge.Cuts) (width 0.15))
   (gr_circle (center 115.5 77) (end 116.5 77) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 178.054 74.93) (end 113.411 74.93) (angle 90) (layer Edge.Cuts) (width 0.15))

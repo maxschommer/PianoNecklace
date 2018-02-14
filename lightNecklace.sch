@@ -837,26 +837,24 @@ LED1
 Text Label 6150 1700 0    60   ~ 0
 LED2
 Text Label 6150 1800 0    60   ~ 0
-LED2
-Text Label 6150 1900 0    60   ~ 0
 LED3
-Text Label 6150 2000 0    60   ~ 0
+Text Label 6150 1900 0    60   ~ 0
 LED4
-Text Label 6150 2100 0    60   ~ 0
+Text Label 6150 2000 0    60   ~ 0
 LED5
-Text Label 6150 2200 0    60   ~ 0
+Text Label 6150 2100 0    60   ~ 0
 LED6
-Text Label 6150 2300 0    60   ~ 0
+Text Label 6150 2200 0    60   ~ 0
 LED7
-Text Label 6150 2400 0    60   ~ 0
+Text Label 6150 2300 0    60   ~ 0
 LED8
-Text Label 6150 2500 0    60   ~ 0
+Text Label 6150 2400 0    60   ~ 0
 LED9
-Text Label 6150 2600 0    60   ~ 0
+Text Label 6150 2500 0    60   ~ 0
 LED10
-Text Label 6150 2700 0    60   ~ 0
+Text Label 6150 2600 0    60   ~ 0
 LED11
-Text Label 6150 2800 0    60   ~ 0
+Text Label 6150 2700 0    60   ~ 0
 LED12
 Text Label 4175 2900 0    60   ~ 0
 MUXEN
@@ -1728,4 +1726,5 @@ NoConn ~ 4175 4400
 NoConn ~ 4175 4500
 NoConn ~ 4175 4600
 NoConn ~ 4175 1700
+NoConn ~ 6150 2800
 $EndSCHEMATC
